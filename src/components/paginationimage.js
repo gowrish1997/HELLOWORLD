@@ -73,7 +73,7 @@ const Paginationimage = () => {
                 <div style={style.imagecontaner}>
                   <img style={style.img} src={data.images[0]}></img>
                 </div>
-                <div>{data.title}</div>
+                <div>{data.title}gworoisdfn</div>
               </div>
             );
           })}
